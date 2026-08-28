@@ -45,7 +45,7 @@ real** da base.
 | **Linguagem** | Python 3.13 |
 | **Bibliotecas** | `pandas`, `numpy`, `re`, `unicodedata` (dados) — a base foi preparada para `matplotlib`/`seaborn` para versões gráficas (não obrigatórias para o entregável) |
 | **Engenharia de dados** | Leitura de CSV, tratamento de datas, remoção de duplicatas, normalização de categorias, merges |
-| **IA / assistência** | opencode (agente de codificação), além de modelos de apoio (ex.: Gemini/ChatGPT) para formulação do plano de execução e revisão |
+| **IA / assistência** | opencode (agente de codificação) e Gemini, para formulação do plano de execução e revisão |
 
 ### Limpeza de dados
 
@@ -265,7 +265,7 @@ os arquivos originais.
 ```
 
 > **Nota:** a pasta `ai-log/` deve conter os logs textuais das interações com a
-> IA (opencode/Gemini/ChatGPT), conforme pedido nas regras de entrega do desafio.
+> IA (opencode/Gemini), conforme pedido nas regras de entrega do desafio.
 
 ---
 
