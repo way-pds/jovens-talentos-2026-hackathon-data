@@ -269,6 +269,32 @@ os arquivos originais.
 
 ---
 
+## Próximos Passos & Melhorias Futuras
+
+Com mais tempo de desenvolvimento disponível para o desafio, o próximo passo
+natural seria **evoluir a análise para um dashboard interativo** das soluções,
+utilizando ferramentas como **Streamlit**, **Dash** ou **Power BI**.
+
+Um dashboard permitiria aos tomadores de decisão da **Seazone** explorarem os
+dados de forma dinâmica e autônoma, em vez de dependerem de tabelas e gráficos
+estáticos do notebook. Entre as capacidades previstas:
+
+- **Filtros interativos de imóveis** por **bairro**, **faixa de preço**,
+  **tipologia** (nº de quartos) e outras variáveis do imóvel.
+- **Simulações financeiras em tempo real:** ajuste de premissas (ex.: taxa de
+  ocupação projetada, ADR, alíquota de comissão, condomínio e IPTU) para
+  recalcular instantaneamente **Gross/Net Yield** e **payback**.
+- **Rankings e visões comparativas** de yield por bairro × tipologia,
+  atualizados conforme os filtros aplicados.
+- **Exportação de relatórios e cenários** para apoio à decisão de expansão da
+  operação em Itapema.
+
+Essa evolução transformaria o estudo analítico em uma **ferramenta de decisão
+operacional**, permitindo à Seazone reproduzir a metodologia para novas praças
+e atualizar premissas conforme o mercado evolui.
+
+---
+
 ## Resumo Executivo
 
 **Invista em apartamentos de 2 quartos em Morretes, operados com anúncio
