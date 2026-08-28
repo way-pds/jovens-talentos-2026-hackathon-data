@@ -2,7 +2,7 @@
 
 **Tema:** Análise de dados para decisão de investimento imobiliário em Itapema (SC)
 
-> 🔗 **[Vídeo de apresentação do desafio (até 2 min)](link_do_video_no_google_drive)**
+> 🔗 **[Vídeo de apresentação do desafio](https://drive.google.com/file/d/1wgsOTOoWwVFyqVDI40puxbK_bxXt3iX0/view?usp=sharing)**
 
 ---
 
