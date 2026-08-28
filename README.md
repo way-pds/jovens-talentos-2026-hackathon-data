@@ -117,6 +117,12 @@ aposta mais eficiente.**
 
 ## 4. Recomendação de Investimento Seazone
 
+### Definição explícita dos critérios de decisão
+
+Defini **"melhor investimento"** sob o critério do **maior Yield Líquido sobre o
+capital investido, ajustado pela liquidez e pelo risco de vacância** — e não
+apenas pela maior receita bruta total.
+
 ### Perfil ideal (resumo)
 
 | Dimensão | Recomendação | Justificativa |
